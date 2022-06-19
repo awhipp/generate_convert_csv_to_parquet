@@ -1,0 +1,4 @@
+Faker==13.13.0
+pandas==1.4.1
+pyarrow==8.0.0
+python-snappy==0.6.1
